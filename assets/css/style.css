@@ -52,6 +52,7 @@ html{
 
 /* ----- GLOBAL BUTTON DESIGN ----- */
 .btn{
+    text-decoration: none;
     font-weight: 500;
     padding: 12px 20px;
     background: #efefef;
@@ -59,6 +60,7 @@ html{
     border-radius: 10px;
     cursor: pointer;
     transition: .4s;
+    color: var(--color-white);
 }
 .btn>i{
     margin-left: 10px;
@@ -333,7 +335,7 @@ h3{
 .about-info p{
     text-align: center;
     font-size: 15px;
-    color: #777;
+    color: #cdcdcd;
 }
 .about-btn button{
     position: absolute;
