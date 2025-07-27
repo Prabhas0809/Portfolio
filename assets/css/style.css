@@ -320,12 +320,12 @@ h3{
 
 /* ----- ABOUT INFO ----- */
 .about-info{
-    height: 400px;
+    height: 100%;
     position: relative;
     display: flex;
     align-items: center;
     flex-direction: column;
-    padding-block: 30px 70px;
+    padding-block: 30px 30px;
     padding-inline: 20px;
     width: 100%;
     background: var(--color-white);
